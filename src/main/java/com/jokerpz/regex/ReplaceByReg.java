@@ -1,4 +1,4 @@
-package com.jokerpz;
+package com.jokerpz.regex;
 
 import java.util.ArrayList;
 import java.util.List;
