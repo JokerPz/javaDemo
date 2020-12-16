@@ -1,4 +1,4 @@
-package com.jokerpz;
+package com.jokerpz.regex;
 
 import org.junit.Test;
 
